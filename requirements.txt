@@ -1,6 +1,5 @@
 request
 bs4
-__future__
 datetime
 pickle
 googleapiclient.discovery
