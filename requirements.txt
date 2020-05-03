@@ -1,7 +1,4 @@
 request
 bs4
 datetime
-pickle
-googleapiclient.discovery
-google_auth_oauthlib.flow
-google.auth.transport.requests
+google-api-python-client
