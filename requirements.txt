@@ -1,3 +1,8 @@
-docopt==0.6.2
-bob-builder==0.0.17
-boto==2.48.0
+request
+bs4
+__future__
+datetime
+pickle
+googleapiclient.discovery
+google_auth_oauthlib.flow
+google.auth.transport.requests
